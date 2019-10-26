@@ -1,0 +1,72 @@
+[
+    {
+        "question": "What is always coming, but never arrives?",
+        "answer": "tomorrow",
+        "score": 10
+    },
+    {
+        "question": "Which country occupied the Philippines during World War II?",
+        "answer": "japan",
+        "score": 5
+    },
+    {
+        "question": "Philippines Independence Day is celebrated on what day in June?",
+        "answer": "12",
+        "score": 5
+    },
+    {
+        "question": "Last name of the man who said, 'A Filipino is worth dying for'",
+        "answer": "aquino",
+        "score": 3
+    },
+    {
+        "question": "What is the original name of Luneta park?",
+        "answer": "Bagumbayan",
+        "score": 7
+    },
+    {
+        "question": "What is the title of the Philippine National Anthem?",
+        "answer": "lupang hinirang",
+        "score": 8
+    },
+    {
+        "question": "What do you call a person who comes from the Philippines?",
+        "answer": "filipino",
+        "score": 2
+    },
+    {
+        "question": "The bones around your chest that protect organs such as the heart are called what?",
+        "answer": "Ribs",
+        "score": 5
+    },
+    {
+        "question": "What is the name of the largest ocean on earth?",
+        "answer": "pacific",
+        "score": 7
+    },
+    {
+        "question": "Last name of the first man to step on the moon",
+        "answer": "armstrong",
+        "score": 10
+    },
+    {
+        "question": "What is the name of the 'red planet' in our solar system?",
+        "answer": "mars",
+        "score": 12
+    },
+    {
+        "question": "The fear of what animal is known as \u2018arachnophobia\u2019?",
+        "answer": "spiders",
+        "score": 12
+    },
+    {
+        "question": "What is the name of the part of the human skeleton which protects our brain?",
+        "answer": "skull",
+        "score": 7
+    },
+    {
+        "question": "Mount Fuji is the highest mountain in what country?",
+        "answer": "Japan",
+        "score": 5
+    }
+]

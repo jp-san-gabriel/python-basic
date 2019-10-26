@@ -1,0 +1,47 @@
+Superintendent:136353
+Deputy/Associate/Assistant Area Superintendent:113942
+School Board Member:30988
+Business/Finance:88133
+Research and Evaluation:80005
+Management Information Services:82383
+Technology Services:78066
+Staff Services:86035
+Facilities:93102
+Transportation:68466
+Food Service:72936
+Media Services:77821
+Career Technical Education:83270
+Exceptional Student Education:76156
+Student Services:78330
+Federal Programs:85493
+Principal, High School:91342
+Principal, Middle/Junior High School:87827
+Principal, Elementary School:84143
+Principal, Other Type Schools:84971
+Assistant Principal, High School:69753
+Assistant Principal, Middle/Junior High School:66297
+Assistant Principal, Elementary School:64322
+Assistant Principal, Other Type Schools:60787
+Deans:51941
+Curriculum Coordinator:64153
+Special School Director (Voc/Tech/Adult/ESE):90750
+Guidance:51523
+Librarian/Media Specialist:52048
+School Psychologist:57958
+Teacher:46504.3600837769
+Nurse (LPN/RN):30933
+Computer Systems Analyst:62521
+Computer Programmer:48672
+Accountant:49817
+Bookkeeper:30589
+Secretary:31487
+Clerk/Clerk Typist:23696
+Data Entry Operator:28607
+Electrician:33775
+AC Technician/Boiler Mechanic:42870
+Mechanic:38940
+Carpenter:38434
+Teacher Aide:17524
+Bus Driver:17371
+Food Service Worker:15786
+Custodian/Groundskeeper:23652

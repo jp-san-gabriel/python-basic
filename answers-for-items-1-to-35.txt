@@ -1,0 +1,74 @@
+# JEAN PAUL T. SAN GABRIEL
+
+1. Allows the programmer to enter the program source code and save it to files.
+
+	ANSWER: Editor
+
+2. Computer program that directly executes, i.e. performs, instructions written in
+a programming or scripting language
+
+	ANSWER: Interpreter
+
+3. Translates the source code to target code.
+
+	ANSWER: Compiler
+
+4. Allows programmers to simultaneously run a program and see which source code line is
+currently being executed.
+
+	ANSWER: Debugger
+
+5. Used to evaluate a program’s performance
+
+	ANSWER: Profiler
+	
+6 – 10. Development tools of a programmer
+	
+	6. Editor
+	7. Compiler 
+	8. Interpreter
+	9. Debugger
+	10. Profiler
+
+11 - 21. Qualities of Python:
+
+	11. Scalable
+	12. Portable
+	13. Easy to Learn
+	14. Easy to Read
+	15. Easy to Maintain
+	16. Extensible
+	17. Robust
+	18. Rapid Prototyping Tool
+	19. Memory Manager
+	20. High-level
+	21. Extensible
+
+22 - 25. Basic Concepts
+
+	22. Dynamically Typed
+	23. Doesn't Require Type
+	24. No Lexical Scoping
+	25. Assignment by Reference
+
+26 – 31. Basic Datatypes
+
+	26. Numeric (int, float, complex)
+	27. Boolean
+	28. String (str)
+	29. Sequence Types (List, Tuples, range)
+	30. Mapping Types (dict)
+	31. Functions
+
+32 - 33. Kinds of Datatypes
+
+	32. Mutable 
+	33. Immutable
+
+34. Example of Item 32
+
+	ANSWER: Strings and Numbers
+
+35. Example of Item 33
+
+	ANSWER: Lists and Dictionaries
