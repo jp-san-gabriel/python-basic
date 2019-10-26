@@ -1,4 +1,4 @@
-# python-basic
+# https://github.com/jp-san-gabriel/python-basic/tree/master
 
 To run this code...
 
